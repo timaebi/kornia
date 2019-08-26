@@ -73,7 +73,7 @@ if __name__ == '__main__':
 	description='differentiable computer vision for deep learning',
 	long_description=long_description,
 	license='Apache License 2.0',
-	python_requires='>=3.6',
+	python_requires='>=3.5',
 	    
 	# Test
 	setup_requires=['pytest-runner'],
